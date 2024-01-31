@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="b4c15ff5473301104dcd9a62736d4333" label="Medical Report" max_length="40" name="x_80370_mummy_re_0_medical_report" type="collection">
+        <element label="Alkaline Phosphate" max_length="40" name="alkaline_phosphate" type="decimal"/>
+        <element label="Blood Urea Nitrogen (BUN)" max_length="40" name="blood_urea_nitrogen_bun" type="decimal"/>
+        <element label="Cholesterol" max_length="40" name="cholesterol" type="decimal"/>
+        <element label="Creatinine Serum" max_length="40" name="creatinine_serum" type="decimal"/>
+        <element display="true" label="Date of Report" max_length="40" name="date_of_report" type="glide_date" unique="true"/>
+        <element label="Glucose Fasting" max_length="40" name="glucose_fasting" type="decimal"/>
+        <element label="Hemoglobin" max_length="40" name="hemoglobin" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Name of Pathelogy" max_length="40" name="name_of_pathelogy" type="string"/>
+        <element label="Phosphorous" max_length="15" name="phosphorous" type="decimal"/>
+        <element label="Platelet Count" max_length="40" name="platelet_count" type="decimal"/>
+        <element label="Potassium" max_length="40" name="potassium" type="decimal"/>
+        <element label="Total Protein" max_length="40" name="protien" type="decimal"/>
+        <element label="RBC" max_length="20" name="rbc" type="decimal"/>
+        <element label="Serum Calcium" max_length="15" name="serum_calcium" type="decimal"/>
+        <element label="Serum Iron" max_length="40" name="serum_iron" type="decimal"/>
+        <element label="Sodium" max_length="40" name="sodium" type="decimal"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element label="T3 - Total" max_length="40" name="t3_total" type="decimal"/>
+        <element label="T4 - Total" max_length="40" name="t4_total" type="decimal"/>
+        <element label="TSH" max_length="40" name="tsh" type="decimal"/>
+        <element label="Urea Serum" max_length="40" name="urea_serum" type="decimal"/>
+        <element label="Uric Acid Serum" max_length="40" name="uric_acid_serum" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Urine Protein" max_length="40" name="urine_protein" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Present (Trace)" sequence="10" value="present-trace"/>
+                <element inactive_on_update="false" label="Present" sequence="20" value="present"/>
+                <element inactive_on_update="false" label="Absent/Negetive" sequence="30" value="absent"/>
+            </choice>
+        </element>
+        <index name="index" unique="true">
+            <element name="date_of_report"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

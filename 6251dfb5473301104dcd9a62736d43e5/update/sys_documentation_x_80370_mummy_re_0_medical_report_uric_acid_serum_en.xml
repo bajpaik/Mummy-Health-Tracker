@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="uric_acid_serum" label="Uric Acid Serum" language="en" table="x_80370_mummy_re_0_medical_report">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>uric_acid_serum</element>
+            <help/>
+            <hint/>
+            <label>Uric Acid Serum</label>
+            <language>en</language>
+            <name>x_80370_mummy_re_0_medical_report</name>
+            <plural>Uric Acid Serums</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 08:02:07</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Uric Acid Serum</sys_name>
+            <sys_package display_value="Mummy's Health Tracker" source="x_80370_mummy_re_0">6251dfb5473301104dcd9a62736d43e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mummy's Health Tracker">6251dfb5473301104dcd9a62736d43e5</sys_scope>
+            <sys_update_name>sys_documentation_x_80370_mummy_re_0_medical_report_uric_acid_serum_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 08:02:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

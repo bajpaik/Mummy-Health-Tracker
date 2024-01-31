@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Mummy's KPI - New Tab">6d7890ce477b01104dcd9a62736d43b1</grid_canvas>
+        <height>14</height>
+        <portal_widget display_value="Created 2022-12-20 05:04:36">dec0784b2fb3111035073996f699b699</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-20 13:04:36</sys_created_on>
+        <sys_id>9ac0784b2fb3111035073996f699b69c</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>6d7890ce477b01104dcd9a62736d43b1</sys_name>
+        <sys_package display_value="Mummy's Health Tracker" source="x_80370_mummy_re_0">6251dfb5473301104dcd9a62736d43e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mummy's Health Tracker">6251dfb5473301104dcd9a62736d43e5</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_9ac0784b2fb3111035073996f699b69c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-04 01:18:33</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>

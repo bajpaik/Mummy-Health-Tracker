@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2024-01-31 03:42:31">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 12:33:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a57890ce477b01104dcd9a62736d43b0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Mummy's KPI - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Mummy's Health Tracker" source="x_80370_mummy_re_0">6251dfb5473301104dcd9a62736d43e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mummy's Health Tracker">6251dfb5473301104dcd9a62736d43e5</sys_scope>
+        <sys_update_name>sys_portal_page_a57890ce477b01104dcd9a62736d43b0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-05-24 02:36:04</sys_updated_on>
+        <title>PA Mummy's KPI - New Tab</title>
+        <user/>
+        <view>pa_mummy's_kpi_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Mummy's KPI - New Tab">a57890ce477b01104dcd9a62736d43b0</page>
+                <summary>Medical Report</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-12-19 09:57:01</sys_created_on>
+                <sys_id>7c4cb2622ff7111035073996f699b616</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-12-19 09:57:02</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-12-19 01:57:01">7c4cb2622ff7111035073996f699b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-19 09:57:02</sys_created_on>
+                        <sys_id>344cf6662ff7111035073996f699b647</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-19 09:57:02</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-12-19 01:57:01">7c4cb2622ff7111035073996f699b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-19 09:57:02</sys_created_on>
+                        <sys_id>704cf6662ff7111035073996f699b647</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-19 09:57:02</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-12-19 01:57:01">7c4cb2622ff7111035073996f699b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-19 09:57:01</sys_created_on>
+                        <sys_id>744cb2622ff7111035073996f699b617</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-19 09:57:01</sys_updated_on>
+                        <value>35daf2222ff7111035073996f699b69b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-12-19 01:57:01">7c4cb2622ff7111035073996f699b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-19 09:57:02</sys_created_on>
+                        <sys_id>7c4cf6662ff7111035073996f699b647</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-19 09:57:02</sys_updated_on>
+                        <value>Medical Report</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2022-12-19 01:57:01">7c4cb2622ff7111035073996f699b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-19 09:57:02</sys_created_on>
+                        <sys_id>b84cf6662ff7111035073996f699b647</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-19 09:57:02</sys_updated_on>
+                        <value>area</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2022-12-19 01:57:01">7c4cb2622ff7111035073996f699b616</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-19 09:57:02</sys_created_on>
+                        <sys_id>f44cf6662ff7111035073996f699b647</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-19 09:57:02</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Mummy's KPI - New Tab">a57890ce477b01104dcd9a62736d43b0</page>
+                <summary>Medical Report Graph</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-06-01 12:33:44</sys_created_on>
+                <sys_id>7c98984a477b01104dcd9a62736d43a0</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-06-01 12:33:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-06-01 05:33:44">7c98984a477b01104dcd9a62736d43a0</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-01 12:33:44</sys_created_on>
+                        <sys_id>3498984a477b01104dcd9a62736d43a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-01 12:33:44</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-06-01 05:33:44">7c98984a477b01104dcd9a62736d43a0</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-01 12:33:44</sys_created_on>
+                        <sys_id>7098984a477b01104dcd9a62736d43a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-01 12:33:44</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-06-01 05:33:44">7c98984a477b01104dcd9a62736d43a0</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-01 12:33:44</sys_created_on>
+                        <sys_id>7498984a477b01104dcd9a62736d43a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-01 12:33:44</sys_updated_on>
+                        <value>cc81184e473b01104dcd9a62736d4337</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-06-01 05:33:44">7c98984a477b01104dcd9a62736d43a0</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-01 12:33:44</sys_created_on>
+                        <sys_id>7c98984a477b01104dcd9a62736d43a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-01 12:33:44</sys_updated_on>
+                        <value>Medical Report Graph</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2022-06-01 05:33:44">7c98984a477b01104dcd9a62736d43a0</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-01 12:33:44</sys_created_on>
+                        <sys_id>b898984a477b01104dcd9a62736d43a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-01 12:33:44</sys_updated_on>
+                        <value>area</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2022-06-01 05:33:44">7c98984a477b01104dcd9a62736d43a0</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-06-01 12:33:44</sys_created_on>
+                        <sys_id>f498984a477b01104dcd9a62736d43a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-06-01 12:33:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Mummy's KPI - New Tab">a57890ce477b01104dcd9a62736d43b0</page>
+                <summary>Platelets</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-12-20 13:07:26</sys_created_on>
+                <sys_id>7f617c4b2fb3111035073996f699b6c1</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-12-20 13:07:26</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-12-20 05:07:26">7f617c4b2fb3111035073996f699b6c1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 13:07:26</sys_created_on>
+                        <sys_id>33617c4b2fb3111035073996f699b6c3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 13:07:26</sys_updated_on>
+                        <value>Platelets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-12-20 05:07:26">7f617c4b2fb3111035073996f699b6c1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 13:07:26</sys_created_on>
+                        <sys_id>37617c4b2fb3111035073996f699b6c2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 13:07:26</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2022-12-20 05:07:26">7f617c4b2fb3111035073996f699b6c1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 13:07:26</sys_created_on>
+                        <sys_id>7f617c4b2fb3111035073996f699b6c2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 13:07:26</sys_updated_on>
+                        <value>area</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2022-12-20 05:07:26">7f617c4b2fb3111035073996f699b6c1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 13:07:26</sys_created_on>
+                        <sys_id>bb617c4b2fb3111035073996f699b6c2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 13:07:26</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-12-20 05:07:26">7f617c4b2fb3111035073996f699b6c1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 13:07:26</sys_created_on>
+                        <sys_id>f7617c4b2fb3111035073996f699b6c2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 13:07:26</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-12-20 05:07:26">7f617c4b2fb3111035073996f699b6c1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 13:07:26</sys_created_on>
+                        <sys_id>ff617c4b2fb3111035073996f699b6c1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 13:07:26</sys_updated_on>
+                        <value>9f41384b2fb3111035073996f699b6d6</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Mummy's KPI - New Tab">a57890ce477b01104dcd9a62736d43b0</page>
+                <summary>Uric Acid</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-12-20 12:59:56</sys_created_on>
+                <sys_id>c2bfec872fb3111035073996f699b657</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-12-20 12:59:56</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-12-20 04:59:56">c2bfec872fb3111035073996f699b657</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 12:59:56</sys_created_on>
+                        <sys_id>0abfec872fb3111035073996f699b659</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 12:59:56</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-12-20 04:59:56">c2bfec872fb3111035073996f699b657</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 12:59:56</sys_created_on>
+                        <sys_id>42bfec872fb3111035073996f699b658</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 12:59:56</sys_updated_on>
+                        <value>e09fac832f33111035073996f699b693</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-12-20 04:59:56">c2bfec872fb3111035073996f699b657</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 12:59:56</sys_created_on>
+                        <sys_id>42bfec872fb3111035073996f699b65a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 12:59:56</sys_updated_on>
+                        <value>Uric Acid</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-12-20 04:59:56">c2bfec872fb3111035073996f699b657</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 12:59:56</sys_created_on>
+                        <sys_id>46bfec872fb3111035073996f699b659</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 12:59:56</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2022-12-20 04:59:56">c2bfec872fb3111035073996f699b657</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 12:59:56</sys_created_on>
+                        <sys_id>8ebfec872fb3111035073996f699b659</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 12:59:56</sys_updated_on>
+                        <value>area</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2022-12-20 04:59:56">c2bfec872fb3111035073996f699b657</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 12:59:56</sys_created_on>
+                        <sys_id>cabfec872fb3111035073996f699b659</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 12:59:56</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Mummy's KPI - New Tab">a57890ce477b01104dcd9a62736d43b0</page>
+                <summary>Alkaline Phosphate</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2022-12-20 13:04:36</sys_created_on>
+                <sys_id>dec0784b2fb3111035073996f699b699</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2022-12-20 13:04:36</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2022-12-20 05:04:36">dec0784b2fb3111035073996f699b699</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 13:04:36</sys_created_on>
+                        <sys_id>16c0784b2fb3111035073996f699b69b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 13:04:36</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2022-12-20 05:04:36">dec0784b2fb3111035073996f699b699</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 13:04:36</sys_created_on>
+                        <sys_id>52c0784b2fb3111035073996f699b69b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 13:04:36</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2022-12-20 05:04:36">dec0784b2fb3111035073996f699b699</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 13:04:36</sys_created_on>
+                        <sys_id>5ec0784b2fb3111035073996f699b69b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 13:04:36</sys_updated_on>
+                        <value>Alkaline Phosphate</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2022-12-20 05:04:36">dec0784b2fb3111035073996f699b699</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 13:04:36</sys_created_on>
+                        <sys_id>96c0784b2fb3111035073996f699b69a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 13:04:36</sys_updated_on>
+                        <value>be70fc0b2fb3111035073996f699b67e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2022-12-20 05:04:36">dec0784b2fb3111035073996f699b699</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 13:04:36</sys_created_on>
+                        <sys_id>9ac0784b2fb3111035073996f699b69b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 13:04:36</sys_updated_on>
+                        <value>area</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2022-12-20 05:04:36">dec0784b2fb3111035073996f699b699</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2022-12-20 13:04:36</sys_created_on>
+                        <sys_id>d6c0784b2fb3111035073996f699b69b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2022-12-20 13:04:36</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

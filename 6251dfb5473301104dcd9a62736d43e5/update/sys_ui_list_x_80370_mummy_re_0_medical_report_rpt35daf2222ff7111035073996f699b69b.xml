@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_80370_mummy_re_0_medical_report" version="2" view="RPT35daf2222ff7111035073996f699b69b">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name_of_pathelogy</element>
+            <list_id display_value="x_80370_mummy_re_0_medical_report" element="NULL" name="x_80370_mummy_re_0_medical_report" parent="NULL" relationship="NULL" sys_domain="global" view="0eda3aa22ff7111035073996f699b69a">c6da3aa22ff7111035073996f699b69b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-19 09:50:49</sys_created_on>
+            <sys_id>ceda3aa22ff7111035073996f699b69b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-19 09:50:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date_of_report</element>
+            <list_id display_value="x_80370_mummy_re_0_medical_report" element="NULL" name="x_80370_mummy_re_0_medical_report" parent="NULL" relationship="NULL" sys_domain="global" view="0eda3aa22ff7111035073996f699b69a">c6da3aa22ff7111035073996f699b69b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-19 09:50:49</sys_created_on>
+            <sys_id>42da3aa22ff7111035073996f699b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-19 09:50:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>creatinine_serum</element>
+            <list_id display_value="x_80370_mummy_re_0_medical_report" element="NULL" name="x_80370_mummy_re_0_medical_report" parent="NULL" relationship="NULL" sys_domain="global" view="0eda3aa22ff7111035073996f699b69a">c6da3aa22ff7111035073996f699b69b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-19 09:50:49</sys_created_on>
+            <sys_id>c2da3aa22ff7111035073996f699b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-19 09:50:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>uric_acid_serum</element>
+            <list_id display_value="x_80370_mummy_re_0_medical_report" element="NULL" name="x_80370_mummy_re_0_medical_report" parent="NULL" relationship="NULL" sys_domain="global" view="0eda3aa22ff7111035073996f699b69a">c6da3aa22ff7111035073996f699b69b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-19 09:50:49</sys_created_on>
+            <sys_id>46da3aa22ff7111035073996f699b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-19 09:50:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>blood_urea_nitrogen_bun</element>
+            <list_id display_value="x_80370_mummy_re_0_medical_report" element="NULL" name="x_80370_mummy_re_0_medical_report" parent="NULL" relationship="NULL" sys_domain="global" view="0eda3aa22ff7111035073996f699b69a">c6da3aa22ff7111035073996f699b69b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-19 09:50:49</sys_created_on>
+            <sys_id>c6da3aa22ff7111035073996f699b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-19 09:50:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>hemoglobin</element>
+            <list_id display_value="x_80370_mummy_re_0_medical_report" element="NULL" name="x_80370_mummy_re_0_medical_report" parent="NULL" relationship="NULL" sys_domain="global" view="0eda3aa22ff7111035073996f699b69a">c6da3aa22ff7111035073996f699b69b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-19 09:50:49</sys_created_on>
+            <sys_id>4ada3aa22ff7111035073996f699b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-19 09:50:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>tsh</element>
+            <list_id display_value="x_80370_mummy_re_0_medical_report" element="NULL" name="x_80370_mummy_re_0_medical_report" parent="NULL" relationship="NULL" sys_domain="global" view="0eda3aa22ff7111035073996f699b69a">c6da3aa22ff7111035073996f699b69b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-19 09:50:49</sys_created_on>
+            <sys_id>cada3aa22ff7111035073996f699b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-19 09:50:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>rbc</element>
+            <list_id display_value="x_80370_mummy_re_0_medical_report" element="NULL" name="x_80370_mummy_re_0_medical_report" parent="NULL" relationship="NULL" sys_domain="global" view="0eda3aa22ff7111035073996f699b69a">c6da3aa22ff7111035073996f699b69b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-19 09:50:49</sys_created_on>
+            <sys_id>4eda3aa22ff7111035073996f699b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-19 09:50:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>platelet_count</element>
+            <list_id display_value="x_80370_mummy_re_0_medical_report" element="NULL" name="x_80370_mummy_re_0_medical_report" parent="NULL" relationship="NULL" sys_domain="global" view="0eda3aa22ff7111035073996f699b69a">c6da3aa22ff7111035073996f699b69b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-19 09:50:49</sys_created_on>
+            <sys_id>ceda3aa22ff7111035073996f699b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-19 09:50:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>glucose_fasting</element>
+            <list_id display_value="x_80370_mummy_re_0_medical_report" element="NULL" name="x_80370_mummy_re_0_medical_report" parent="NULL" relationship="NULL" sys_domain="global" view="0eda3aa22ff7111035073996f699b69a">c6da3aa22ff7111035073996f699b69b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-19 09:50:49</sys_created_on>
+            <sys_id>42da3aa22ff7111035073996f699b69d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-19 09:50:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_80370_mummy_re_0_medical_report</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-19 09:50:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6da3aa22ff7111035073996f699b69b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_80370_mummy_re_0_medical_report</sys_name>
+            <sys_package display_value="Mummy's Health Tracker" source="x_80370_mummy_re_0">6251dfb5473301104dcd9a62736d43e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mummy's Health Tracker">6251dfb5473301104dcd9a62736d43e5</sys_scope>
+            <sys_update_name>sys_ui_list_x_80370_mummy_re_0_medical_report_RPT35daf2222ff7111035073996f699b69b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-19 09:50:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt35daf2222ff7111035073996f699b69b" name="RPT35daf2222ff7111035073996f699b69b">0eda3aa22ff7111035073996f699b69a</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="urine_protein" table="x_80370_mummy_re_0_medical_report" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>urine_protein</element>
+            <name>x_80370_mummy_re_0_medical_report</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 08:41:40</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>urine_protein</sys_name>
+            <sys_package display_value="Mummy's Health Tracker" source="x_80370_mummy_re_0">6251dfb5473301104dcd9a62736d43e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mummy's Health Tracker">6251dfb5473301104dcd9a62736d43e5</sys_scope>
+            <sys_update_name>sys_choice_x_80370_mummy_re_0_medical_report_urine_protein</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 08:41:40</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>urine_protein</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Present (Trace)</label>
+            <language>en</language>
+            <name>x_80370_mummy_re_0_medical_report</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 08:41:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 08:41:40</sys_updated_on>
+            <value>present-trace</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>urine_protein</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Present</label>
+            <language>en</language>
+            <name>x_80370_mummy_re_0_medical_report</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 08:42:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 08:42:15</sys_updated_on>
+            <value>present</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>urine_protein</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Absent/Negetive</label>
+            <language>en</language>
+            <name>x_80370_mummy_re_0_medical_report</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 08:42:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 09:01:48</sys_updated_on>
+            <value>absent</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
