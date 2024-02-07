@@ -14,7 +14,7 @@
         <chart_border_radius>0</chart_border_radius>
         <chart_border_width>1</chart_border_width>
         <chart_height>450</chart_height>
-        <chart_size>large</chart_size>
+        <chart_size>small</chart_size>
         <chart_subtitle/>
         <chart_subtitle_color/>
         <chart_subtitle_size>14</chart_subtitle_size>
@@ -26,7 +26,7 @@
         <chart_title_x_position>0</chart_title_x_position>
         <chart_title_y_position>0</chart_title_y_position>
         <chart_width>600</chart_width>
-        <color display_value="#9A0E2A">15794007730033000b9dff603ef6a7fa</color>
+        <color display_value="#81b5a1">f07caa4b533200101fb2ddeeff7b123c</color>
         <color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette>
         <colors/>
         <column/>
@@ -78,7 +78,7 @@
         <pivot_expanded>true</pivot_expanded>
         <report_drilldown/>
         <report_source/>
-        <roles>snc_internal</roles>
+        <roles/>
         <row/>
         <sc_groupby_item_id/>
         <sc_groupby_variable_id/>
@@ -101,23 +101,23 @@
         <source_type>table</source_type>
         <start_time/>
         <style_config/>
-        <sumfield>platelet_count</sumfield>
+        <sumfield>blood_urea_nitrogen_bun</sumfield>
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-12-20 13:06:51</sys_created_on>
+        <sys_created_on>2024-02-06 11:38:44</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>9f41384b2fb3111035073996f699b6d6</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Platelets</sys_name>
+        <sys_id>1bb51fff970002108e03b627f053af22</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Blood Urea Nitrogen (BUN)</sys_name>
         <sys_package display_value="Mummy's Health Tracker" source="x_80370_mummy_re_0">6251dfb5473301104dcd9a62736d43e5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mummy's Health Tracker">6251dfb5473301104dcd9a62736d43e5</sys_scope>
-        <sys_update_name>sys_report_9f41384b2fb3111035073996f699b6d6</sys_update_name>
+        <sys_update_name>sys_report_1bb51fff970002108e03b627f053af22</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-07 00:12:27</sys_updated_on>
+        <sys_updated_on>2024-02-07 00:04:38</sys_updated_on>
         <table>x_80370_mummy_re_0_medical_report</table>
-        <title>Platelets</title>
+        <title>Blood Urea Nitrogen (BUN)</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
