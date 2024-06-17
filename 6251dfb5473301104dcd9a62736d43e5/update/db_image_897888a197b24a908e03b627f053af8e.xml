@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format>png</format>
+        <height>92</height>
+        <image>7388842197b24a908e03b627f053afed</image>
+        <name>x_80370_mummy_re_0.paperclip2.png</name>
+        <size_bytes>1373</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-14 13:48:29</sys_created_on>
+        <sys_id>897888a197b24a908e03b627f053af8e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_80370_mummy_re_0.paperclip2.png</sys_name>
+        <sys_package display_value="Mummy's Health Tracker" source="x_80370_mummy_re_0">6251dfb5473301104dcd9a62736d43e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mummy's Health Tracker">6251dfb5473301104dcd9a62736d43e5</sys_scope>
+        <sys_update_name>db_image_897888a197b24a908e03b627f053af8e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-14 13:48:38</sys_updated_on>
+        <thumbnail/>
+        <width>92</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#3399ff</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>image</file_name>
+        <hash>4312f86485de2f9a3792a06c9064b7d45f1fec796f5ab5962f0a9e480b56afaa</hash>
+        <image_height>92</image_height>
+        <image_width>92</image_width>
+        <size_bytes>1373</size_bytes>
+        <size_compressed>1396</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-14 13:48:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7388842197b24a908e03b627f053afed</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-14 13:48:38</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>897888a197b24a908e03b627f053af8e</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="7388842197b24a908e03b627f053afed">7388842197b24a908e03b627f053afed</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-14 13:48:38</sys_created_on>
+        <sys_id>b388842197b24a908e03b627f053afed</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AV0FovqJUE5HDQoaCgAAAA1JSERSAAAAXAAAAFwIAwAAANQxImoAAAByUExURXTA/BkxVHjG/3fD/nnI/w4iRRcuURQqTRInShN61A140xh81QodQQgaPnC9+l+u8Uib5len7T6U4me19SeE2TWN3k+h6SRBZk2Crztljmy06kd4pUJxnD9rlmSm3CtMclWOvzNZgV6d0h04WwAONQBy0MujWSYAAASmSURBVGiB7Znrsps6DEYdy8ZgCHdyIQm37P3+r1jJJiFtgXQa8+PMqWbaySawUD5LsgQsA8Z4xTYwqFiM/2cH2ABeBXSHYhPHq6A07A38hq3ZBSty+uyafdDIDhix49QxPC51HIeh+VwWbtmQ6ErkgXG5jB3LApk+8DLEKI+r2C16hKcoe1wV7qOl0CWPK822YKPSOgGWMNd6G8MVDRPONyAb+kHr0nWAT/Sk1HorOCZ9kW0GZ+6Lyj/7bxqQbUIWcdOduqFh7tMb4tvRj6SMvLZzHcm8831vZ8yL2sap8+K8302m9oNDujj71mlfWfejxpkycJNE9Hf99dwadbyjM/Y1Ira81ZwLGO5Ej05uhBFn4/f+JIwUwIjuHZ1s76I3esuTGA9AQ67LwQEbrN/yRQbeez8f+Gu7TexH5vML/hb/+jF80huZTW2V4R0eVGexcl0cv7+16OVDb6h3+6/eXCKu7zwPw/BdXwRw9if2UWEADuaKI2nerVwcID1c7XKBTWsJdasojYgoOrqlWsvRrMjKsFwLVnjozUe/d56MSXo67LXrfkGh9Yrro94RacJ2hu2jt7wxJWw/rEmKvSIvg2zxFOhf9L4btsJKywd7+LbCBhYWAFoni9+/6n18YXuUnmqtbkHKdMHTMFzU/Dxq8qK39duyV3pkSDXLcATQ6cI5/He9DdvqrdaKFk+/EyZSHeQLbPGq987Ubw/ZYojesiGn9j8NgpzPw6GL5vVWT01AzOcnalJAwZCNvXQyg4da/cqWv7KHWzfnPiTfCcQlQ78TrfMZB8SNRJGXKQZ9w5705qcvtZ8tXFWO7JIRO5jN0Nrsl2dim7gzmgjL9oktLiSbX/9+aRwmkIWYQVkwn/3QmUjBS+NJb1tPdqrF6OFXc4KagRdBgXDOkoCeXcyY6BU5jkKcpGUjrxv1JvbFptdcySXPi7DCkrtQtYD2X6qt0HrPOHnoTexoJf/LFOgZ0WJFNJJ7+Jtruosanmy/ndjRbTYUIfumc9i8JhSIpnEwcPxwr2HU2ye9hdVb3hb2OKioZrHFLHvCY9pw1LUe9X5ZSznvt6HnQXVY+nKUhYKF92bzUTY2SBMY9b6u1dskXxKF7G4aTTxtmDpbo7eN793+TVMBK18LankUicov+yeb9LYtTHRd6ynemE2iO6UIXKTveZ6SPf7Bb7ZUfsJ+pL+JB97cjvfjmfbLP9H7D4ybbiXqbAOEmy11t4/4/pCNkW5bim76/TC2GR/pPaI6s5Dy3AiznXBo7sqB3ta43eaU13dNXTen1k5Cs7XqL6y1A5aS0peRHIesi6MhC34aDU0p+3I0BTHqwb3HUGvQONg60PtJjy9Hk0KURNL5SM7r4dLe7/djf9rkYQKn9oQv9Cj/7P9jWz0JM5al6VyL68YCjT2u87cWD3hV6mCTl3NoMedJoDdSxrwOXZy4PjT0GVuvucnCgQUJQBhs8bYVMpqgq5Uh9xN2ygpWbbKecKB1rIKVxwqfssPwsDDkfsLOTPyFOhOp80iMKwy/igX0ZOHbcbRAWmCAFywDmv6dotFyYAXKwYntXHNMygL/pUHoPj0hpzXNfwB6eEN8A9sOAgAAAABJRU5ErkJggsDa/ZxdBQAA</data>
+        <length>1848</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="7388842197b24a908e03b627f053afed">7388842197b24a908e03b627f053afed</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-14 13:48:38</sys_created_on>
+        <sys_id>3788842197b24a908e03b627f053afed</sys_id>
+    </sys_attachment_doc>
+</record_update>
