@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="erythrocyte_sedimentation_rate" label="Erythrocyte Sedimentation Rate (ESR)" language="en" table="x_80370_mummy_re_0_medical_report">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>erythrocyte_sedimentation_rate</element>
+            <help/>
+            <hint/>
+            <label>Erythrocyte Sedimentation Rate (ESR)</label>
+            <language>en</language>
+            <name>x_80370_mummy_re_0_medical_report</name>
+            <plural>Erythrocyte Sedimentation Rate (ESR)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-04 11:04:19</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Erythrocyte Sedimentation Rate (ESR)</sys_name>
+            <sys_package display_value="Mummy's Health Tracker" source="x_80370_mummy_re_0">6251dfb5473301104dcd9a62736d43e5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mummy's Health Tracker">6251dfb5473301104dcd9a62736d43e5</sys_scope>
+            <sys_update_name>sys_documentation_x_80370_mummy_re_0_medical_report_erythrocyte_sedimentation_rate_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-04 11:04:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

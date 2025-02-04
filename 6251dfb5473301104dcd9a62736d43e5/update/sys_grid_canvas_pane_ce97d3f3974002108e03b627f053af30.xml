@@ -2,7 +2,7 @@
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA Mummy's KPI - New Tab">6d7890ce477b01104dcd9a62736d43b1</grid_canvas>
         <height>10</height>
-        <portal_widget display_value="Created 2024-02-06 03:46:51">0697d3f3974002108e03b627f053af2e</portal_widget>
+        <portal_widget display_value="">0697d3f3974002108e03b627f053af2e</portal_widget>
         <posx>0</posx>
         <posy>10</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>

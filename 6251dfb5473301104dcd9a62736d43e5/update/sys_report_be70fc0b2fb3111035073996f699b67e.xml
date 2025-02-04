@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_report">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
     <sys_report action="INSERT_OR_UPDATE">
+        <active>false</active>
         <additional_groupby/>
         <aggregate>MAX</aggregate>
         <aggregation_source>no_override</aggregation_source>
@@ -27,7 +28,7 @@
         <chart_title_y_position>0</chart_title_y_position>
         <chart_width>600</chart_width>
         <color display_value="#9f9f9f">c28e55d8b7733010b288bc16de11a9f1</color>
-        <color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette>
+        <color_palette display_value="Greys dark to light (8)">d2aa8ba9d7100200b96d45a3ce6103d3</color_palette>
         <colors/>
         <column/>
         <compute_percent>aggregate</compute_percent>
@@ -45,7 +46,7 @@
         <donut_width_percent>30</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field/>
+        <field>patient</field>
         <field_list>name_of_pathelogy,date_of_report,creatinine_serum,uric_acid_serum,blood_urea_nitrogen_bun,hemoglobin,tsh,rbc,platelet_count,glucose_fasting</field_list>
         <filter/>
         <formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration>
@@ -71,6 +72,7 @@
         <lower_limit/>
         <map display_value="World">93b8a3a2d7101200bd4a4ebfae61033a</map>
         <map_source/>
+        <no_bulk_migration>false</no_bulk_migration>
         <orderby_list/>
         <other_threshold>-2</other_threshold>
         <others>true</others>
@@ -86,7 +88,7 @@
         <sc_stackby_variable_id/>
         <score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color>
         <series_name_text/>
-        <set_color>one_color</set_color>
+        <set_color>color_palette</set_color>
         <show_chart_border>false</show_chart_border>
         <show_chart_data_label>true</show_chart_data_label>
         <show_chart_title>report</show_chart_title>
@@ -105,17 +107,15 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-20 13:03:16</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>be70fc0b2fb3111035073996f699b67e</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Alkaline Phosphate</sys_name>
         <sys_package display_value="Mummy's Health Tracker" source="x_80370_mummy_re_0">6251dfb5473301104dcd9a62736d43e5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mummy's Health Tracker">6251dfb5473301104dcd9a62736d43e5</sys_scope>
         <sys_update_name>sys_report_be70fc0b2fb3111035073996f699b67e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-09-04 01:35:53</sys_updated_on>
+        <sys_updated_on>2025-02-04 11:22:56</sys_updated_on>
         <table>x_80370_mummy_re_0_medical_report</table>
         <title>Alkaline Phosphate</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

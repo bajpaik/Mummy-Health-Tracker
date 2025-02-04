@@ -28,7 +28,6 @@
         <sys_update_name>sys_kmf_crypto_caller_policy_8f45b32697f031108e03b627f053af60</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-08-25 03:20:09</sys_updated_on>
-        <target_domain>global</target_domain>
         <target_role/>
         <target_scope display_value="Mummy's Health Tracker">6251dfb5473301104dcd9a62736d43e5</target_scope>
         <target_script/>

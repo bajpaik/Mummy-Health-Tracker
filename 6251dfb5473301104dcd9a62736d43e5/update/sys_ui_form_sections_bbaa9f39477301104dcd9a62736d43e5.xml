@@ -56,6 +56,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-06-01 09:32:11</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-04 11:08:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0581b58d8323121073b8c6a6feaad360</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_80370_mummy_re_0_medical_report" name="x_80370_mummy_re_0_medical_report" sys_domain="global" view="Default view">bbaa9f39477301104dcd9a62736d43e5</sys_ui_form>
+            <sys_ui_section caption="Hematology" display_value="Hematology" name="x_80370_mummy_re_0_medical_report" sys_domain="global" view="Default view">cd81b58d8323121073b8c6a6feaad35c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-04 11:08:29</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_80370_mummy_re_0_medical_report</name>
             <roles/>
